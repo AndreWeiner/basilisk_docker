@@ -4,7 +4,7 @@ This repository contains Dockerfiles to create images of the [Basilisk](http://b
 
 ## Dockerfiles
 
-The images are currently based on Ubuntu 16.04. Every images in the following list suits a different purpose.
+The images are currently based on Ubuntu 18.04. Every images in the following list suits a different purpose.
 
 - *Dockerfile.minimal*: minimal installation of Basilisk without Python interface and Bview
 
